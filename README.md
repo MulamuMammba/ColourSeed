@@ -11,7 +11,7 @@ Colour Seed is a captivating web application that allows you to change the backg
 ## Screenshots
 
 ![Screenshot 1](screenshot1.png)
-![Screenshot 3](screenshot3.png)
+![Screenshot  3](screenshot3.png)
 
 ## Getting Started
 
